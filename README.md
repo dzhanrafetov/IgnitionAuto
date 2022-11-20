@@ -37,5 +37,4 @@ As I said, each role has a corresponding menu,roles are Admin,Client.Lets see th
   
   <img width="599" alt="image" src="https://user-images.githubusercontent.com/49691399/202921276-d6a6bdee-38f2-41f6-989f-f4de00357fb7.png">
 
-  -also we will be registered to the  employee  database <img width="599" alt="image" src="https://user-images.githubusercontent.com/49691399/202921284-4d35797b-7f9f-4a82-91ad-04f8c8f141e1.png">
-
+  
