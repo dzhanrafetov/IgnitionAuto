@@ -50,12 +50,14 @@ As I said, each role has a corresponding menu,roles are Admin,Client.Lets see th
   5)can add employee manually
   6)can add vehicle manually
   7)can add user manually
-  5,6,7-are avaible ,because ,if there is any malfunction and it cannot be added by the user,will be add from the admin.
-  8,9,10-work on the same logic as the above options,but for removing
+  5,6,7 - are avaible ,because ,if there is any malfunction and it cannot be added by the user,will be add from the admin.
+  8,9,10 - work on the same logic as the above options,but for removing
   11)takes the e-mails of registered users as Clients, and does some kind of notification
   
   <img width="800" alt="image" src="https://user-images.githubusercontent.com/49691399/202923211-c1c81677-2783-4864-80fc-bb2526e30f28.png">
 
+  
+  
   
   
   <img width="842" alt="image" src="https://user-images.githubusercontent.com/49691399/202923344-9fd4a9e2-2460-4e7f-bb4b-f35bb34ed02a.png">
