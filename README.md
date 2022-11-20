@@ -33,8 +33,30 @@ As I said, each role has a corresponding menu,roles are Admin,Client.Lets see th
 
 <img width="486" alt="image" src="https://user-images.githubusercontent.com/49691399/202921165-a2f9a90c-aa9a-4501-b92c-fa2ed01b8514.png">
 
--also we will be registered to the <b> employee <b> database <img width="599" alt="image" src="https://user-images.githubusercontent.com/49691399/202921276-d6a6bdee-38f2-41f6-989f-f4de00357fb7.png">
+-also we will be registered to the <b> employee <b> database 
+  
+  <img width="599" alt="image" src="https://user-images.githubusercontent.com/49691399/202921276-d6a6bdee-38f2-41f6-989f-f4de00357fb7.png">
 
 ***** other choices from the menu ,are not working yet (but soon will work) 
+#### And lets see the other role of our software  
+  <h1>ADMIN ROLE</h1>
   
+ <img width="335" alt="image" src="https://user-images.githubusercontent.com/49691399/202921794-46d74345-9b85-49c2-bfd0-5254ec99e343.png">
+  
+  1)is same as the Client's 
+  2)we can see all employers,that the company have by the positions,or search for employee <img width="328" alt="image" src="https://user-images.githubusercontent.com/49691399/202921868-b6b23c21-770d-44b3-961a-bd91aa06aedd.png">
+  3)we can see all loged users 
+  4)also we can see loged and not loged users(with the details)
+  5)can add employee manually
+  6)can add vehicle manually
+  7)can add user manually
+  5,6,7-are avaible ,because ,if there is any malfunction and it cannot be added by the user,will be add from the admin.
+  8,9,10-work on the same logic as the above options,but for removing
+  11)takes the e-mails of registered users as Clients, and does some kind of notification
+  
+  <img width="1192" alt="image" src="https://user-images.githubusercontent.com/49691399/202923211-c1c81677-2783-4864-80fc-bb2526e30f28.png">
+
+  
+  
+
   
