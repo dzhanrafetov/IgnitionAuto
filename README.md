@@ -54,7 +54,11 @@ As I said, each role has a corresponding menu,roles are Admin,Client.Lets see th
   8,9,10-work on the same logic as the above options,but for removing
   11)takes the e-mails of registered users as Clients, and does some kind of notification
   
-  <img width="1192" alt="image" src="https://user-images.githubusercontent.com/49691399/202923211-c1c81677-2783-4864-80fc-bb2526e30f28.png">
+  <img width="800" alt="image" src="https://user-images.githubusercontent.com/49691399/202923211-c1c81677-2783-4864-80fc-bb2526e30f28.png">
+
+  
+  
+  <img width="842" alt="image" src="https://user-images.githubusercontent.com/49691399/202923344-9fd4a9e2-2460-4e7f-bb4b-f35bb34ed02a.png">
 
   
   
