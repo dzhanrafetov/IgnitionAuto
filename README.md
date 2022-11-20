@@ -22,11 +22,15 @@ As I said, each role has a corresponding menu,roles are Admin,Client.Lets see th
 2)search vehicle
 3)Candidate for a position in the Vehicle Company(Ignition Auto) 
 -positions are (manager,auto mechanic,tire technician and others..)
--every positions
+-each position has application requirements:if you want to candidate as a <b>manager</b> you need to have high education and experience at this position at least 4 years
+
+#### Lets test for position,that we are not compatible.
+
+<img width="399" alt="image" src="https://user-images.githubusercontent.com/49691399/202921098-5defc307-583f-46e0-b513-14fd260e0df6.png">
 
 
-<img width="503" alt="image" src="https://user-images.githubusercontent.com/49691399/202920710-8341a4af-6fdd-4192-84c4-d870eda58969.png">
+#### if everything is ok,we will see this:
 
-
+<img width="486" alt="image" src="https://user-images.githubusercontent.com/49691399/202921165-a2f9a90c-aa9a-4501-b92c-fa2ed01b8514.png">
 
 
