@@ -46,9 +46,11 @@ As I said, each role has a corresponding menu,roles are Admin,Client.Lets see th
   1)is same as the Client's \n
   2)we can see all employers,that the company have by the positions,or search for employee <img width="328" alt="image" src="https://user-images.githubusercontent.com/49691399/202921868-b6b23c21-770d-44b3-961a-bd91aa06aedd.png">
   
-  3)we can see all loged users 
+  3)we can see all loged users <br>
   4)also we can see loged and not loged users(with the details)
+  <br>
   5)can add employee manually
+  <br>
   6)can add vehicle manually
   7)can add user manually
   5,6,7 - are avaible ,because ,if there is any malfunction and it cannot be added by the user,will be add from the admin.
