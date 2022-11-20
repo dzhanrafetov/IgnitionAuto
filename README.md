@@ -43,9 +43,10 @@ As I said, each role has a corresponding menu,roles are Admin,Client.Lets see th
   
  <img width="335" alt="image" src="https://user-images.githubusercontent.com/49691399/202921794-46d74345-9b85-49c2-bfd0-5254ec99e343.png">
   
-  1)is same as the Client's  \n
+  1)is same as the Client's \n
   2)we can see all employers,that the company have by the positions,or search for employee <img width="328" alt="image" src="https://user-images.githubusercontent.com/49691399/202921868-b6b23c21-770d-44b3-961a-bd91aa06aedd.png">
-  3)we can see all loged users 
+  
+  -:3)we can see all loged users 
   4)also we can see loged and not loged users(with the details)
   5)can add employee manually
   6)can add vehicle manually
