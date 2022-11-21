@@ -1,7 +1,5 @@
 # IgnitionAuto
-```diff
-+ <h1> text is highlighted in green </h1>
-```
+
 Vehicle Management Project - Java , MySQL , JDBC, JAVA MAIL SMTP
 
 
@@ -76,7 +74,12 @@ As I said, each role has a corresponding menu,roles are Admin,Client.Lets see th
   - MySQL Connector Java 8.0.27<br>
   - Javax mail 1.6.3<br>
   
+  -When you install these files, also you need to download the schema given in the 'database' folder and export it to your database,you need to make 
+  the schema name:  shop_db
   
   
-
+  
+  <h1>Contact</h1>
+ -if you have any problems during installation or there is any bug in the software, you can feel free to contact me. <br>
+  💌<b> dzhanrafetov@gmail.com </b>
   
