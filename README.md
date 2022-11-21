@@ -21,7 +21,9 @@ As I said, each role has a corresponding menu,roles are Admin,Client.Lets see th
 <h1>CLIENT ROLE</h1>
 
 <img width="421" alt="Screenshot 2022-11-20 at 20 35 46" src="https://user-images.githubusercontent.com/49691399/202919985-dc4adddb-cd35-4a82-96ad-d749475dc42e.png">
-###
+####
+
+
 1)will display all cars from the database,we can select how to display by type, name, price(we can make our price preferences, like show vehicles from min price to max price)<br> 
 2) search vehicle<br>
 3) Candidate for a position in the Vehicle Company(Ignition Auto)<br>
