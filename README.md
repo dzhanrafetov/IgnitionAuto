@@ -72,9 +72,11 @@ As I said, each role has a corresponding menu,roles are Admin,Client.Lets see th
   <img width="842" alt="image" src="https://user-images.githubusercontent.com/49691399/202923344-9fd4a9e2-2460-4e7f-bb4b-f35bb34ed02a.png">
 
   <h1>Instalation Files</h1>
-  -to run this software in your machine you need to install some  files (jar files):
-  - MySQL Connector Java 8.0.27
-  - Javax mail 1.6.3
+  -to run this software in your machine you need to install some  files (jar files):<br>
+  - MySQL Connector Java 8.0.27<br>
+  - Javax mail 1.6.3<br>
+  
+  
   
 
   
